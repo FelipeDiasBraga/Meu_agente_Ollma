@@ -1,0 +1,76 @@
+TEXTO PARA TREINAMENTO DE IA - CONHECIMENTO COGNI
+
+[SEÇÃO: SERVIÇOS]
+
+[CATEGORIA: GESTÃO DE CRÉDITOS DE ENERGIA]
+A COGNI oferece soluções avançadas para gestão de créditos energéticos, incluindo:
+
+Monitoramento automático de saldos
+
+Sistema de compensação inteligente
+
+Relatórios de eficiência energética
+
+Alertas para oportunidades de otimização
+Aplicações: Usinas solares, distribuidoras, consumidores industriais.
+
+[CATEGORIA: INDÚSTRIA 4.0]
+Nossas soluções para Indústria 4.0 integram:
+• Plataformas IoT industriais
+• Análise preditiva de equipamentos
+• Digitalização de processos
+• Painéis de controle em tempo real
+Benefícios: Redução de 25-40% em custos operacionais.
+
+[SEÇÃO: DIFERENCIAIS TECNOLÓGICOS]
+
+[SUBSESSÃO: GÊMEO ENERGÉTICO DIGITAL]
+Funcionalidades:
+
+Modelagem matemática do consumo
+
+Comparação com benchmarks setoriais
+
+Simulação de cenários
+
+Recomendações personalizadas
+
+[SUBSESSÃO: PLATAFORMA IoT]
+Componentes:
+
+Medidores inteligentes (classe A)
+
+Gateway de comunicação
+
+Armazenamento em nuvem
+
+API para integrações
+
+[SEÇÃO: CASOS DE USO]
+
+[CLIENTE-TIPO: CONDOMÍNIOS]
+Problema resolvido: Gestão centralizada de:
+✓ Consumo energético
+✓ Faturas múltiplas
+✓ Manutenções preventivas
+✓ Comunicação com moradores
+
+[CLIENTE-TIPO: INDÚSTRIAS]
+Benefícios alcançados:
+• Controle de múltiplas UCs
+• Auditoria automática de faturas
+• Rateio preciso entre departamentos
+• Redução média de 18% no custo/MWh
+
+[SEÇÃO: SOBRE A COGNI]
+
+[INFORMAÇÕES CORPORATIVAS]
+Fundação: 2008
+Especialização: Eficiência energética
+Tecnologias proprietárias: 7 patentes
+Áreas de atuação: Energia e produtividade
+
+[CONTATOS]
+Comercial: comercial@cogni.com.br
+Suporte: suporte@cogni.com.br
+Demonstrações: (11) 99999-9999
